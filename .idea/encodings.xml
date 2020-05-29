@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/ajouterjoueur.jsp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/ajoutertournoi.jsp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/modifierjoueur.jsp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/modifiertournoi.jsp" charset="windows-1252" />
+  </component>
+</project>
